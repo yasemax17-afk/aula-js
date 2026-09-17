@@ -127,7 +127,7 @@
 
 // let valor = 450
 // let desconto = 20
-// if (valor >= 500) {
+// if (valor > 500) {
 //     console.log(valor - 20 );
     
 // } else {
