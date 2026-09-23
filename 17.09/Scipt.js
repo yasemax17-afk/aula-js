@@ -89,19 +89,19 @@
 //     console.log("ruim")
 //  } 
 
-let tipoingresso = "meia"
+// let tipoingresso = "meia"
 
-if (tipoingresso == "inteira") {
-    console.log("valor da inteira é 40")
-} else if (tipoingresso == "meia") { 
-    console.log("valor da meia é 20 ")
+// if (tipoingresso == "inteira") {
+//     console.log("valor da inteira é 40")
+// } else if (tipoingresso == "meia") { 
+//     console.log("valor da meia é 20 ")
     
-} else if (tipoingresso == "vip") {
-    console.log("valor do vip é 80")
+// } else if (tipoingresso == "vip") {
+//     console.log("valor do vip é 80")
 
-} else {
-    console.log("ingresso inválido")
-}
+// } else {
+//     console.log("ingresso inválido")
+// }
 
  
 
