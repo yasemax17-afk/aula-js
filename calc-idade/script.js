@@ -1,6 +1,6 @@
 // pegar os elementos no html
-
 const formulario = document.getElementById("formulario");
+
 
 const nome = document.getElementById("nome");
 const nascimento = document.getElementById("nascimento");
